@@ -1,0 +1,12 @@
+{
+  "name": "discord-slash-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "canvas": "^3.1.2",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
